@@ -1,1 +1,5 @@
-
+wd = input("Please type the wind direction: ")
+if wd == "North" or "north" or "N" or "n";
+  print("this is north")
+if wd == "Northwest" or "North West" or "northwest" or "north west" or "NW" or "nw" or "Nw";
+  print("this is northwest")
